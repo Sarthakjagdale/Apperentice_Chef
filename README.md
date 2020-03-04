@@ -8,6 +8,9 @@ a competitive advantage based on its unique product offering of hard to find loc
 
 
 # Data-driven Recommendation:  
+
+From the model there is an 82% chance of the customers buying the product, recommendations are as follows:
+
 1. Attract more millennials, as the purchasing power is with the millennials. 
 2. Use smart watch to order the product as it might be very intersting to the early adopters.
 3. Use delivery drones for “halfway there”, based on the data. 
